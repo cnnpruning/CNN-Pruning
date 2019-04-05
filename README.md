@@ -1,4 +1,4 @@
-# Convolution Pruning
+# CNN Pruning
 This repo contains implementations of kernel-level pruning and run-time pruning of CNNs.
 
 ## Convolution Kernel Pruning/Kernel-Level Pruning
